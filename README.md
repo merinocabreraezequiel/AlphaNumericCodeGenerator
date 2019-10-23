@@ -3,6 +3,8 @@
 Sencillo proyecto en `python 3` para generar secuencialmente todas las combinaciones de letras y numeros.
 Inicialmente pensado para saber cuanto se tardaría en realizar esta acción y calcular el porcentage que representa solo la parte numérica
 
+La idea no es _generar como tal todos los códigos_ sino ver cual es la mejor metodología para hacerlo y comprobar como influye en su rendimiento las diferentes arquitecturas de software o soluciones
+
 ### Pre-requisitos 📋
 
 python 3.7 [Download](https://www.python.org/downloads/release/python-375/)
