@@ -30,7 +30,7 @@ python combinatoria.py
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (GPL3) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia (GPL3) - mira el archivo [LICENSE](LICENSE) para detalles
 
 ## Agradecimientos 🎁
 
