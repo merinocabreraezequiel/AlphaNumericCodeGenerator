@@ -36,4 +36,5 @@ for a in range(62):
 												code = stepbystep([a,b,c,d,e,f,g,h,i,j,k,l])
 												if (code.isdigit()):
 													onlyDigit += 1
-												print (onlyDigit, "/", count, "(", dayshoursminutes(), ") -", code)
+												if (count % 1000000 == 0):
+													print (onlyDigit, "/", count, "(", dayshoursminutes(), ") -", code)
